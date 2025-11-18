@@ -1,9 +1,9 @@
 {
     "owner": {
-        "username": "github-username",
-        "email": "your-email@gmail.com"
+        "username": "mcrsmg4",
+        "email": "contacttechbritish@proton.me"
     },
     "records": {
-        "TXT": "github-verification-string"
+        "TXT": "_github-pages-challenge-mcrsmg4.mcr.is"
     }
 }
