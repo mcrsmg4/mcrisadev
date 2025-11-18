@@ -1,9 +1,0 @@
-{
-    "owner": {
-        "username": "github-username",
-        "email": "your-email@gmail.com"
-    },
-    "records": {
-        "TXT": "github-verification-string"
-    }
-}
